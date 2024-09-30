@@ -4,6 +4,8 @@ Welcome to the **BAMSQUAD** repository for our Applied AI course (CSIT349 - F2).
 
 ## Progress Report
 
+https://docs.google.com/document/d/12AUGed06TBVEHrnfnQJE2Vku_Nast6N7AdSiuUKv9bY/edit 
+
 ### Dataset Options
 
 We are currently evaluating several datasets for analysis. Below is a list of datasets suggested by the team:
