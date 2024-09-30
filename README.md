@@ -22,7 +22,7 @@ We are currently evaluating several datasets for analysis. Below is a list of da
 | [Google Earth Data](https://www.google.com/earth/)                           | Adrian Sajulga             |
 | [World Bank Agriculture Data](https://data.humdata.org/m/dataset/world-bank-agriculture-and-rural-development-indicators-for-philippines) | Felisa Melanie Fay Bascug |
 | [World Bank Combined Indicators](https://data.humdata.org/m/dataset/world-bank-combined-indicators-for-philippines) | Felisa Melanie Fay Bascug |
-| [Farmgate Philippines](https://www.kaggle.com/datasets/monmamon/farmgate-philippines) | Stephen Clint Sales |
+| [Farmgate Philippines](https://www.kaggle.com/datasets/monmamon/farmgate-philippines) | Basil Xavier Mendoza |
 
 ### Most Probable Choice
 We are currently leaning towards using the **Agriculture Crop Yield** dataset for our analysis, as it offers rich data and aligns well with our project goals.
@@ -37,6 +37,7 @@ Each member of the group has specific responsibilities:
 | **Adrian Sajulga**             | Project Manager                        |
 | **Stephen Clint Sales**        | Data Scientist (Visual Representation) |
 | **Basil Xavier Mendoza**       | Data Engineer (Data Management, Report Findings) |
+| **Roddneil Gemina**        | Data Scientist (Report Findings) |
 
 ## Project Objectives
 
