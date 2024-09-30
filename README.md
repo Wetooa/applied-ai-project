@@ -6,24 +6,6 @@ Welcome to the **BAMSQUAD** repository for our Applied AI course (CSIT349 - F2).
 
 https://docs.google.com/document/d/12AUGed06TBVEHrnfnQJE2Vku_Nast6N7AdSiuUKv9bY/edit 
 
-### Dataset Options
-
-We are currently evaluating several datasets for analysis. Below is a list of datasets suggested by the team:
-
-| Dataset Link                                                                 | Suggested By              |
-|------------------------------------------------------------------------------|---------------------------|
-| [Movies Dataset](https://www.kaggle.com/datasets/mohammedalsubaie/movies)    | Stephen Clint Sales        |
-| [Food Nutritional Facts](https://www.kaggle.com/datasets/beridzeg45/food-nutritional-facts) | Stephen Clint Sales |
-| [Philippine Earthquakes](https://www.kaggle.com/datasets/bwandowando/philippine-earthquakes-from-phivolcs) | Stephen Clint Sales |
-| [Agriculture Crop Yield](https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield) | Adrian Sajulga |
-| [Lettuce Growth Days](https://www.kaggle.com/datasets/jjayfabor/lettuce-growth-days) | Adrian Sajulga |
-| [Weather Prediction](https://www.kaggle.com/datasets/thedevastator/weather-prediction/code) | Adrian Sajulga |
-| [Coffee Dataset](https://www.kaggle.com/datasets/michals22/coffee-dataset)   | Adrian Sajulga             |
-| [Google Earth Data](https://www.google.com/earth/)                           | Adrian Sajulga             |
-| [World Bank Agriculture Data](https://data.humdata.org/m/dataset/world-bank-agriculture-and-rural-development-indicators-for-philippines) | Felisa Melanie Fay Bascug |
-| [World Bank Combined Indicators](https://data.humdata.org/m/dataset/world-bank-combined-indicators-for-philippines) | Felisa Melanie Fay Bascug |
-| [Farmgate Philippines](https://www.kaggle.com/datasets/monmamon/farmgate-philippines) | Basil Xavier Mendoza |
-
 ### Most Probable Choice
 We are currently leaning towards using the **Agriculture Crop Yield** dataset for our analysis, as it offers rich data and aligns well with our project goals.
 
