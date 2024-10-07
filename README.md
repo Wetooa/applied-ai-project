@@ -6,8 +6,8 @@ Welcome to the **BAMSQUAD** repository for our Applied AI course (CSIT349 - F2).
 
 https://docs.google.com/document/d/12AUGed06TBVEHrnfnQJE2Vku_Nast6N7AdSiuUKv9bY/edit 
 
-### Most Probable Choice
-We are currently leaning towards using the **Agriculture Crop Yield** dataset for our analysis, as it offers rich data and aligns well with our project goals.
+### Dataset Choice
+We have selected the **Student Performance Factors** dataset for our analysis, as it offers rich data and aligns well with our project goals.
 
 ## Team Roles
 
