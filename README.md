@@ -9,6 +9,9 @@ https://docs.google.com/document/d/12AUGed06TBVEHrnfnQJE2Vku_Nast6N7AdSiuUKv9bY/
 ### Dataset Choice
 We have selected the **Student Performance Factors** dataset for our analysis, as it offers rich data and aligns well with our project goals.
 
+### Notebook 
+students-performance/spf.ipynb
+
 ## Team Roles
 
 Each member of the group has specific responsibilities:
